@@ -1,5 +1,5 @@
 
-# Deep Learning Nanodegree Foundation
+# Udacity Natural Language Processing Nanodegree
 
 This repository contains material related to Udacity's [Udacity Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892?gclid=Cj0KCQiAvP6ABhCjARIsAH37rbRPo6FqHI8nkwemL5ip5K-wvRDIHSGQvrV1ombJTqYxw8kNO8ff_S8aAhlMEALw_wcB&utm_campaign=8301633102_c&utm_keyword=udacity%20nlp%20nanodegree_e&utm_medium=ads_n&utm_source=gsem_brand&utm_term=85164908283) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
 
